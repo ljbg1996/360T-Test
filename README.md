@@ -9,12 +9,6 @@ This Player Communication APP allows for simple message passing between a server
 - Java JDK 17 or higher
 - Maven
 
-## Compiling the Project
-To compile the project, navigate to the root directory and run:
-
-mvn clean install
-
-
 
 ## Running the Application
 
